@@ -1,0 +1,19 @@
+Script started on Fri Apr 14 14:52:41 2017
+[?1034h[1;36mzhengpengzhang@[1;34m1734021-C02SG6DKG8WP:[1;32m~/Sample/script[1;31m $ [0mhaha[K[K[K[Kls
+total 88
+-rwxr-xr-x  1 zhengpengzhang  staff   146B Apr 12 15:21 [31mtime_take.sh[39;49m[0m*
+-rwxr-xr-x  1 zhengpengzhang  staff   121B Apr 12 15:24 [31mpassword.sh[39;49m[0m*
+-rwxr-xr-x  1 zhengpengzhang  staff   563B Apr 12 15:24 [31msample_output.sh[39;49m[0m*
+-rwxr-xr-x  1 zhengpengzhang  staff   245B Apr 13 14:16 [31msleep.sh[39;49m[0m*
+-rw-r--r--  1 zhengpengzhang  staff   204B Apr 13 14:18 debug.sh
+-rw-r--r--  1 zhengpengzhang  staff    86B Apr 13 14:19 recursion.sh
+-rw-r--r--  1 zhengpengzhang  staff    92B Apr 13 14:19 function.sh
+-rw-r--r--  1 zhengpengzhang  staff   136B Apr 13 14:21 success_test.sh
+-rw-r--r--  1 zhengpengzhang  staff   226B Apr 14 11:38 ifs.sh
+-rw-r--r--  1 zhengpengzhang  staff   322B Apr 14 11:50 loop.sh
+-rw-r--r--  1 zhengpengzhang  staff     0B Apr 14 14:52 timing.log
+-rw-r--r--  1 zhengpengzhang  staff   161B Apr 14 14:52 output.session
+[1;36mzhengpengzhang@[1;34m1734021-C02SG6DKG8WP:[1;32m~/Sample/script[1;31m $ [0mexit
+exit
+
+Script done on Fri Apr 14 14:52:53 2017

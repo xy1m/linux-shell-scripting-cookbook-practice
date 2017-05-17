@@ -1,0 +1,30 @@
+
+1 2 3 4 5 6
+11 12
+7 8 9 10
+apple
+orange
+pairs
+total 152
+-rwxr-xr-x  1 zhengpengzhang  staff   204B Apr 13 14:18 debug.sh*
+
+-rwxr-xr-x  1 zhengpengzhang  staff    86B Apr 13 14:19 recursion.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff    92B Apr 13 14:19 function.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   136B Apr 13 14:21 success_test.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   1.2K Apr 14 14:52 output.session*
+prw-r--r--  1 zhengpengzhang  staff     0B Apr 14 14:57 scriptfifo|
+-rwxr-xr-x  1 zhengpengzhang  staff    24B Apr 17 15:33 cecho.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff    76B Apr 17 16:45 sort.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   251B Apr 18 14:11 sleep.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   164B Apr 18 15:09 rename.sh*
+-rw-r--r--  1 zhengpengzhang  staff   128B Apr 18 16:34 version.patch
+drwxr-xr-x  9 zhengpengzhang  staff   306B Apr 20 14:11 data/
+-rwxr-xr-x  1 zhengpengzhang  staff   193B Apr 20 14:12 silent_grep.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   173B Apr 20 14:13 time_count.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   137B Apr 20 14:14 password.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   565B Apr 20 14:15 sample_output.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   341B Apr 20 14:18 loop.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   245B Apr 20 14:19 ifs.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   172B Apr 20 14:21 checkword.sh*
+-rwxr-xr-x  1 zhengpengzhang  staff   129B Apr 20 14:21 interactive.sh*
+-rw-r--r--  1 zhengpengzhang  staff   270B May  3 23:52 word_freq.sh

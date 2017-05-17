@@ -1,0 +1,4 @@
+No	Name	Mark	Percent
+1	George	45	90
+2	Jim	50	100
+3	Tom	30	60
